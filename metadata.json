@@ -1,0 +1,6 @@
+{
+  "name": "Nexus3 — Curated Web3 B2B Partnership Network",
+  "description": "A curated B2B networking platform for Web3 projects to discover verified ecosystems, align partnership interests, and connect with business development teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
